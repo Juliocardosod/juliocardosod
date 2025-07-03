@@ -1,16 +1,24 @@
-# 👋 Olá, me chamo Júlio Cardoso
+# 🙋‍♂️ Olá, sou o Júlio Cardoso
 
-## Um pouco sobre mim
+## 👨‍💻 Um pouco sobre mim
 
-Sou desenvolvedor Front e Back end. trabalho com criação de portais, serviços, microserviços e APIs.  
-Trabalho com foco na resoluçao de problemas e agilizar processos por meio de automações, criacão portais e criacão de serviços de monitoramento.  
-Entusiasta de hardware hacking
+Sou desenvolvedor **Front-end** e **Back-end**, apaixonado por transformar ideias em soluções digitais robustas.  
+Atuo na criação de **portais**, **microserviços**, **APIs** e sistemas escaláveis.
 
-## 
-Pós graduando em Computaçao aplicada a sistemas
-Graduado em Análise e desenvolvimento de sistemas
-Tecnico em eletrônica
+🚀 Meu foco está em **resolver problemas** reais e **acelerar processos** por meio de:
+- 🔧 Automação inteligente  
+- 🌐 Desenvolvimento de portais personalizados  
+- 📡 Criação de serviços de **monitoramento e integração**
 
+🛠️ Entusiasta de **hardware hacking** — gosto de explorar os limites entre software e eletrônica.
+
+---
+
+## 🎓 Formação acadêmica
+
+- 📘 Pós-graduando em **Computação Aplicada a Sistemas**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
+- 🧰 Técnico em **Eletrônica**
 
 ## 🚀 Tecnologias
 
@@ -22,7 +30,6 @@ Tecnico em eletrônica
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 
 ## 📈 GitHub Stats
 
