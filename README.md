@@ -29,7 +29,11 @@ Tecnico em eletrônica
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocardosod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Onde me encontrar?
-![mail](juliocardosodemelo@gmail.com)
-![LinkedIn](https://linkedin.com/in/júlio-melo-2bb028102)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/júlio-melo-2bb028102)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocardosodemelo@gmail.com)
+
+
+
 
 ---
