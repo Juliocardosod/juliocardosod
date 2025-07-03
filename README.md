@@ -26,10 +26,10 @@ Tecnico em eletrônica
 
 ## 📈 GitHub Stats
 
-![juliocardosod](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+!juliocardosod(https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
 
-## 📫 Voce você me encontrar em:
-
-- [LinkedIn](https://linkedin.com/in/júlio-melo-2bb028102)
+## 📫 Onde me encontrar?
+[!mail  
+!LinkedIn(https://linkedin.com/in/júlio-melo-2bb028102)
 
 ---
