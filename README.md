@@ -2,8 +2,8 @@
 
 ## Um pouco sobre mim
 
-Sou desenvolvedor Front e Back end. trabalho com criação de portais, serviços, microserviços e APIs.
-Trabalho com foco na resoluçao de problemas e agilizar processos por meio de automações, criacão portais e criacão de serviços de monitoramento.
+Sou desenvolvedor Front e Back end. trabalho com criação de portais, serviços, microserviços e APIs.  
+Trabalho com foco na resoluçao de problemas e agilizar processos por meio de automações, criacão portais e criacão de serviços de monitoramento.  
 Entusiasta de hardware hacking
 
 ## 
