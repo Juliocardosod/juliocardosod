@@ -26,7 +26,7 @@ Tecnico em eletrônica
 
 ## 📈 GitHub Stats
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocardosod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocardosod&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Onde me encontrar?
 
